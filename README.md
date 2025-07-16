@@ -55,7 +55,7 @@ Given a log of LLM interactions in JSON format, the script computes quality metr
 [
   {
     "id": "item-001",
-    "faithfulness": 0.8,
+    "faithfulness": 0.80,
     "answer_relevancy": 0.88,
     "context_precision": 0.85
   },
