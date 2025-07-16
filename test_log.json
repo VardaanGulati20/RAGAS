@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": "item-001",
+      "input": {
+        "system": "You are an expert in computer science and Python programming.",
+        "user": "What is the difference between a list and a tuple in Python?"
+      },
+      "expected_output": "Lists in Python are mutable, meaning their elements can be changed. Tuples, on the other hand, are immutable. Also, lists use square brackets [], while tuples use parentheses ()."
+    },
+    {
+      "id": "item-002",
+      "input": {
+        "system": "You are a machine learning assistant. Provide accurate, concise answers.",
+        "user": "What is overfitting in machine learning?"
+      },
+      "expected_output": "Overfitting is when a model learns the training data too well, including noise, and fails to generalize to new data. It performs well on training data but poorly on unseen data."
+    }
+  ]
+}
