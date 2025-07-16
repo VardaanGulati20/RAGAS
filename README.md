@@ -119,6 +119,6 @@ If `test_log.json` is in the same folder, this will generate `ragas_scores_outpu
 ---
 
 ## 🙋‍♂️ Author
-Vardaan Gulati
+Vardaan Gulati : 
 National Institute of Technology, Delhi
-AI/ML Enthusiast 
+
